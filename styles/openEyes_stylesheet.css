@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+body 
+{ 
+    background-color: #D7D7D7;
+}
+
+.bg-1 
+{
+    background-color: #D7D7D7;
+    font-family: 'Quicksand', sans-serif;
+    font-size: large;
+    text-align: center;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.bg-2
+{
+    background-color: #D7D7D7;
+    font-family: 'Quicksand', sans-serif;
+    padding-right: 50px;
+    padding-left: 50px;
+    text-align: center;
+}
+
+button
+{
+    background-color: #0D8B2E;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.btn-login
+{
+    background-color: #0D8B2E;
+}
+
+h1{font-size: xx-large;}
